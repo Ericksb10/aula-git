@@ -1,7 +1,7 @@
 void main() {
 
-  int num1 = 5;
-  int num2 = 16;
+  int num1 = 50;
+  int num2 = 85;
 
   print(num1+num2);
 }
